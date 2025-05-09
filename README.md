@@ -30,4 +30,6 @@
 
 #### Curso Técnico em Informática concluído em 2023 e cursando Inglês nível Intermediário 🧠⚙️
 
+### Recém-contratado pela Atento como Jovem Aprendiz - TI
+
 #### email: pedropaulocarvalho08@gmail.com
