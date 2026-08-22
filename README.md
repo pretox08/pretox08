@@ -28,8 +28,8 @@
     <img align="center" alt="vs-code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-#### Curso Técnico em Informática concluído em 2023 e cursando Inglês nível Intermediário 🧠⚙️
+#### Curso Técnico em Informática concluído em 2023 e Inglês nível Intermediário 🧠⚙️
 
-### Recém-contratado pela Atento como Jovem Aprendiz - TI
+### Experiência de 1 ano com Suporte Técnico (HelpDesk)
 
 #### email: pedropaulocarvalho08@gmail.com
